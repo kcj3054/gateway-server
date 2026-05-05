@@ -64,7 +64,7 @@ package com.example.auth_server.config;
 //    @Bean
 //    public AuthorizationServerSettings authorizationServerSettings() {
 //        return AuthorizationServerSettings.builder()
-//                .issuer("http://localhost:9000")
+//                .issuer("http://localhost:8081")
 //                .build();
 //    }
 //
